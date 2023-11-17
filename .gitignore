@@ -1,7 +1,8 @@
 build
+/.idea
 hs_err_pid*
 !.idea
-.idea/*
+.idea/
 !/.idea/icon.svg
 out
 *.ipr
